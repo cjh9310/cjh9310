@@ -1,21 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gyeomii&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Cjh9310&fontSize=90)
 
 <div align="center">
     <p>
-        <a href="https://velog.io/@gyeomii" target="_blank">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the/badge&logo=Velog&logoColor=FFFFFF"/>
-    </a>
-    <a href="https://www.instagram.com/gyeomii_/" target="_blank">
-        <img src="https://img.shields.io/badge/gyeomii_-e94057?style=for-the/badge&logo=Instagram&logoColor=FFFFFF"/>
-    </a>
-    <a href="https://github.com/gyeomii" target="_blank">
+    <a href="https://github.com/cjh9310" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the/badge&logo=GitHub&logoColor=FFFFFF"/>
     </a>
-    <a href="https://gyeomii.notion.site/a16e0b17813c429dac8faeeeaaf24383" target="_blank">
+    <a href="https://vaulted-periodical-615.notion.site/8e740db55dd8428a9708c90dd9c5371d" target="_blank">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the/badge&logo=Notion&logoColor=FFFFFF"/>
     </a>
     </a>
-    <a href="mailto:kimsg7388@gmail.com" target="_blank">
+    <a href="mailto:mine931045@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the/badge&logo=Gmail&logoColor=FFFFFF"/>
     </a>
     </p>
@@ -42,14 +36,10 @@
     <p>
         <img align="center"
              src="https://github-readme-stats.vercel.app/api/top-langs?username=gyeomii&show_icons=true&locale=en&layout=compact"
-             alt="gyeomii"/>
+             alt="cjh9310"/>
     </p>
     <p>
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gyeomii">
-    </p>
-    <p>
-        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyeomii%2Fhit-counter&count_bg=%23D3D3D3&title_bg=%232F2D2D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
-        </a>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cjh9310">
     </p>
 <p></p>
 </div>
