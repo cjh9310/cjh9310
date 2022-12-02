@@ -38,8 +38,5 @@
              src="https://github-readme-stats.vercel.app/api/top-langs?username=gyeomii&show_icons=true&locale=en&layout=compact"
              alt="cjh9310"/>
     </p>
-    <p>
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cjh9310">
-    </p>
 <p></p>
 </div>
